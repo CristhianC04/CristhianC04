@@ -27,7 +27,7 @@ para que de esta manera se pueda comprender de una mejor manera los temas descri
 
 
 
-### =====================EJERCICIOS DEL CAPITULO 3==========================
+### ==========EJERCICIOS DEL CAPITULO 3=============
 
 ## SECCIÓN 3–1 
 
@@ -302,7 +302,7 @@ El foco fundido seria el número 4
 
 
 
-### =====================EJERCICIOS DEL CAPITULO 4==========================
+### ===========EJERCICIOS DEL CAPITULO 4=============
 
 ## SECCIÓN 4–1 
 
@@ -512,7 +512,7 @@ Se cumple que el valor de salida es menor al valor de entrada
 
 # 4) VIDEO
 
-https://www.youtube.com/watch?v=wBYTZ0FlLws
+
 
 
 # 5.CONCLUSIONES
