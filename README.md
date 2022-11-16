@@ -14,6 +14,18 @@ para que de esta manera se pueda comprender de una mejor manera los temas descri
 
 • Comprender el funcionamiento de la ley de ohms y su mecanismo que tiene en un circuito.
 
+# 2. MARCO TEORICO
+
+### Capitulo 3
+
+![image](https://user-images.githubusercontent.com/116813743/202297167-b4510e26-68ca-420f-8a0e-964201c8db91.png)
+
+
+### Capitulo 4
+
+![image](https://user-images.githubusercontent.com/116813743/202296997-32806ab8-ce2c-4895-afce-ba45b4521e4c.png)
+
+
 
 ### =====================EJERCICIOS DEL CAPITULO 3==========================
 
