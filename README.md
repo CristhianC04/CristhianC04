@@ -500,7 +500,7 @@ Se cumple que el valor de salida es menor al valor de entrada
 
 # 4) VIDEO
 
-https://youtu.be/Osvq5oC-_OU
+https://www.youtube.com/watch?v=wBYTZ0FlLws
 
 
 # 5.CONCLUSIONES
