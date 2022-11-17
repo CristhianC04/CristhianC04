@@ -512,7 +512,7 @@ Se cumple que el valor de salida es menor al valor de entrada
 
 # 4) VIDEO
 
-
+https://www.youtube.com/watch?v=7JZxyQorKxY
 
 
 # 5.CONCLUSIONES
